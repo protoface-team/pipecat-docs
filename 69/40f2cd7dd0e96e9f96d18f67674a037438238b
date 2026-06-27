@@ -1,0 +1,40 @@
+api-reference/server/services/video/protoface.mdx
+  s_e57d4c66278a66::t_850771024a1fda 1-2,4-15,19,21-36,43,47-56,59-61,64-65,69-88,91-93,95-96,99-101,104-106,109-111,114-131,133-137,140-145,147,149-154,156-161
+  s_e57d4c66278a66::t_98c1a6e67e7fcd 37-42
+  s_e57d4c66278a66::t_22cb3e2d2b2bd0 3
+  s_e57d4c66278a66::t_355a0ea57417f4 45
+  s_e57d4c66278a66::t_638555cf955c6d 57-58
+  s_e57d4c66278a66::t_862db2aeb53394 20
+  s_e57d4c66278a66::t_1d2100417802c0 94,98,102-103
+  s_e57d4c66278a66::t_0b8100768e7838 162
+  s_e57d4c66278a66::t_0a8749156fcb1c 46
+  s_e57d4c66278a66::t_b57ba347fd3854 97
+  s_e57d4c66278a66::t_4ff1c88b6076b0 66-68
+  s_e57d4c66278a66::t_36d7ae1913cdef 89-90
+  s_e57d4c66278a66::t_d4ab15a902923f 146,148
+  s_e57d4c66278a66::t_8d9dfb749e4fab 155
+  s_e57d4c66278a66::t_839173cd5fe78d 44
+  s_e57d4c66278a66::t_752a2af395cba1 62-63,112-113,138-139
+  s_e57d4c66278a66::t_fd6fc2dea1d657 16-18,132
+  s_e57d4c66278a66::t_456642abd61fa9 107-108
+api-reference/server/services/supported-services.mdx
+  s_e57d4c66278a66::t_b57ba347fd3854 264-270
+docs.json
+  s_e57d4c66278a66::t_850771024a1fda 489
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "6940f2cd7dd0e96e9f96d18f67674a037438238b",
+  "prompts": {},
+  "sessions": {
+    "s_e57d4c66278a66": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ee77f-f025-7120-879c-a005c5058345",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Protoface Team <295041388+protoface-team@users.noreply.github.com>"
+    }
+  }
+}
